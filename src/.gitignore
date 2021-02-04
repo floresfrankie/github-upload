@@ -1,0 +1,7 @@
+# Ignore the project guidelines
+*.iml
+
+# Ignore each of the output files
+A1Final.txt
+A2Final.txt
+A3Final.txt
