@@ -1,6 +1,4 @@
 # github-upload
-This repository holds a project I completed for my Computer Science II course. 
-
 **Description:**
 The project acts like a movie ticket reservation system. A known system user - found in userdb.dat - can: reserve seats, modify an order, -
 and delete an order in one of three auditoriums. If the user attempts to reserve a seat that has already been taken, the program will offer
